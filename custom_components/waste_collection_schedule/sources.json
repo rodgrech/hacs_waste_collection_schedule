@@ -868,6 +868,12 @@
       "id": "app_my_local_services_au"
     },
     {
+      "title": "Mid-Western Regional Council",
+      "module": "midwestern_nsw_gov_au",
+      "default_params": {},
+      "id": "midwestern_nsw_gov_au"
+    },
+    {
       "title": "MidCoast Council",
       "module": "midcoast_nsw_gov_au",
       "default_params": {},
@@ -4791,6 +4797,15 @@
       "id": "recyclecoach_com"
     },
     {
+      "title": "Lakeshore (ON)",
+      "module": "recyclecoach_com",
+      "default_params": {
+        "district_id": "LAK",
+        "project_id": "583"
+      },
+      "id": "recyclecoach_com"
+    },
+    {
       "title": "LaSalle (ON)",
       "module": "recyclecoach_com",
       "default_params": {
@@ -6819,6 +6834,12 @@
       "module": "ics",
       "default_params": {},
       "id": "ics_kreis_alzey_worms_de"
+    },
+    {
+      "title": "Amberg",
+      "module": "amberg_de",
+      "default_params": {},
+      "id": "amberg_de"
     },
     {
       "title": "AMBnet",
@@ -9587,6 +9608,12 @@
       "id": "app_abfallplus_de"
     },
     {
+      "title": "Landkreis Mecklenburgische Seenplatte",
+      "module": "lk_mecklenburgische_seenplatte_de",
+      "default_params": {},
+      "id": "lk_mecklenburgische_seenplatte_de"
+    },
+    {
       "title": "Landkreis Mettmann (MyMuell App)",
       "module": "jumomind_de",
       "default_params": {
@@ -12048,6 +12075,12 @@
       "module": "junker_app",
       "default_params": {},
       "id": "junker_app"
+    },
+    {
+      "title": "Aprica S.p.A.",
+      "module": "apricaspa_it",
+      "default_params": {},
+      "id": "apricaspa_it"
     },
     {
       "title": "Aprilia - Progetto Ambiente Spa",
@@ -14770,6 +14803,12 @@
       "id": "hvcgroep_nl"
     },
     {
+      "title": "Rova",
+      "module": "rova_nl",
+      "default_params": {},
+      "id": "rova_nl"
+    },
+    {
       "title": "Saver",
       "module": "saver_nl",
       "default_params": {},
@@ -14986,6 +15025,17 @@
       "module": "remidt_no",
       "default_params": {},
       "id": "remidt_no"
+    },
+    {
+      "title": "ROAF (Romerike Avfallsforedling IKS)",
+      "module": "minrenovasjon_no",
+      "default_params": {
+        "county_id": 3205,
+        "house_number": 2,
+        "street_code": 12950,
+        "street_name": "Solvangen"
+      },
+      "id": "minrenovasjon_no"
     },
     {
       "title": "Sandnes Kommune",
@@ -16640,6 +16690,15 @@
       "module": "data_bs_ch",
       "default_params": {},
       "id": "data_bs_ch"
+    },
+    {
+      "title": "Beinwil am See",
+      "module": "localcities_ch",
+      "default_params": {
+        "municipality": "beinwil-am-see",
+        "municipality_id": "5313"
+      },
+      "id": "localcities_ch"
     },
     {
       "title": "Berg",
